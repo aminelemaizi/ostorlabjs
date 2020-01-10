@@ -1,0 +1,36 @@
+{
+  "name": "ostorlab",
+  "version": "0.0.0",
+  "description": "A personal machine learning library made for experimental purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminelemaizi/ostorlabjs.git"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "data",
+    "science",
+    "artificial",
+    "intelligence"
+  ],
+  "author": "Amine LEMAIZI (https://github.com/aminelemaizi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aminelemaizi/ostorlabjs/issues"
+  },
+  "homepage": "https://github.com/aminelemaizi/ostorlabjs#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/polyfill": "^7.7.0",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/register": "^7.7.7",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
